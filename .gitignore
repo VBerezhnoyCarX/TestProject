@@ -1,0 +1,7 @@
+﻿test/Library
+test/Logs
+test/Temp
+test/UserSettings
+test/.vsconfig
+test/Assembly-CSharp.csproj
+test/test.sln
